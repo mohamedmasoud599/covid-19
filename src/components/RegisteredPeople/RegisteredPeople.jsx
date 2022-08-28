@@ -147,7 +147,7 @@ export default function RegisteredPeople() {
           level={1}
           style={{ textAlign: "center", padding: "40px 0 40px" }}
         >
-          كشـــــف الأسمــــاء المسجلة
+          كشـــــف الأسمــــاء
         </Title>
 
         <Row gutter={24}>
