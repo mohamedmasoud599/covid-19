@@ -1,0 +1,702 @@
+[
+  {
+    "milId": 1998130400844,
+    "rank": "مساعد ا",
+    "name": "السعيد محمود السعيد",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "15/08/1998",
+    "joinDate": "06/11/2021",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 2000130400881,
+    "rank": "مساعد أ",
+    "name": "محمد سعد زكريا النجار",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "25/07/2000",
+    "joinDate": "29/10/2016",
+    "currentRankPromotionDate": "01/01/2018",
+    "nextRankPromotionDate": "01/01/2022"
+  },
+  {
+    "milId": 2009130400742,
+    "rank": "رقيب ا",
+    "name": "سعيد سعيد محمد محمد",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "18/07/2009",
+    "joinDate": "06/11/2021",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2026"
+  },
+  {
+    "milId": 2008130400455,
+    "rank": "رقيب ا",
+    "name": "سامح احمد محمد ابراهيم",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "26/07/2008",
+    "joinDate": "27/10/2016",
+    "currentRankPromotionDate": "01/01/2020",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 200913400982,
+    "rank": "رقيب أ",
+    "name": "احمد محمد محمود ابراهيم",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "18/07/2009",
+    "joinDate": "29/10/2016",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 2010130400335,
+    "rank": "رقيب ا",
+    "name": "مصطفى أمين سالم الزيات",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "16/01/2010",
+    "joinDate": "27/10/2016",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2010130400632,
+    "rank": "رقيب ا",
+    "name": "احمد سويلم السيد",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "16/01/2010",
+    "joinDate": "26/01/2020",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2026"
+  },
+  {
+    "milId": 2010130400153,
+    "rank": "رقيب ا",
+    "name": "باسم اسماعيل ابراهيم",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "16/01/2010",
+    "joinDate": "22/11/2021",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2026"
+  },
+  {
+    "milId": 2011130401571,
+    "rank": "رقيب",
+    "name": "مصطفى ربيع السطوحى السيد",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "15/01/2011",
+    "joinDate": "29/10/2016",
+    "currentRankPromotionDate": "01/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2011130403163,
+    "rank": "رقيب",
+    "name": "هاشم محمد هاشم محمد علي",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "24/07/2011",
+    "joinDate": "29/11/2021",
+    "currentRankPromotionDate": "01/01/2018",
+    "nextRankPromotionDate": "01/01/2023"
+  },
+  {
+    "milId": 2014130400105,
+    "rank": "رقيب",
+    "name": "مصطفي سعد السيد العناني",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "26/01/2014",
+    "joinDate": "26/01/2020",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2014130400361,
+    "rank": "رقيب",
+    "name": "محمود فوزي السيد خاطر",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "26/01/2014",
+    "joinDate": "26/01/2020",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2013130401808,
+    "rank": "رقيب",
+    "name": "اسلام احمد احمد محمد",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "24/08/2013",
+    "joinDate": "16/12/2020",
+    "currentRankPromotionDate": "01/01/2020",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 2014130401286,
+    "rank": "رقيب",
+    "name": "حسام ناصر ثابت ابوالحسن",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "02/08/2014",
+    "joinDate": "26/01/2020",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2026"
+  },
+  {
+    "milId": 2015130402266,
+    "rank": "عريف",
+    "name": "ايهاب احمد فتحي سليم",
+    "category": "كاتب عسكري",
+    "volunteeringDate": "08/08/2015",
+    "joinDate": "08/11/2018",
+    "currentRankPromotionDate": "24/02/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 1996138300925,
+    "rank": "مساعد ا",
+    "name": "احمد السيد سرحان محمود",
+    "category": "صف",
+    "volunteeringDate": "01/01/1996",
+    "joinDate": "27/01/2020",
+    "currentRankPromotionDate": "01/07/2018",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 1997138300212,
+    "rank": "مساعد ا",
+    "name": "زكي عطية زكي مصطفى",
+    "category": "صف",
+    "volunteeringDate": "01/03/1997",
+    "joinDate": "29/11/2018",
+    "currentRankPromotionDate": "01/07/2019",
+    "nextRankPromotionDate": "01/07/2023"
+  },
+  {
+    "milId": 1998138301490,
+    "rank": "مساعد أ",
+    "name": "احمد يونس هاشم يونس",
+    "category": "صف",
+    "volunteeringDate": "15/08/1998",
+    "joinDate": "26/10/2016",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 1999138301620,
+    "rank": "مساعد ا",
+    "name": "زغلول عبد الفتاح عبد الحليم",
+    "category": "صف",
+    "volunteeringDate": "06/02/1999",
+    "joinDate": "09/11/2020",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 1999138302842,
+    "rank": "مساعد ا",
+    "name": "محمود عبدالعزيز احمد الجندى",
+    "category": "صف",
+    "volunteeringDate": "06/02/1999",
+    "joinDate": "10/10/2020",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2000138301362,
+    "rank": "مساعد ا",
+    "name": "علاء مامون السيد ابو خريبة",
+    "category": "صف",
+    "volunteeringDate": "15/02/2000",
+    "joinDate": "27/10/2020",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2000138301627,
+    "rank": "مساعد ا",
+    "name": "محمد محمود محمد حجازي",
+    "category": "صف",
+    "volunteeringDate": "15/02/2000",
+    "joinDate": "07/11/2020",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 1999138305490,
+    "rank": "مساعد",
+    "name": "محمود السيد سيد احمد الشيخ",
+    "category": "صف",
+    "volunteeringDate": "20/07/1999",
+    "joinDate": "02/11/2021",
+    "currentRankPromotionDate": "01/07/2017",
+    "nextRankPromotionDate": "01/01/2022"
+  },
+  {
+    "milId": 2001138303100,
+    "rank": "مساعد",
+    "name": "محمد قاسم فهيم الشاذلى",
+    "category": "صف",
+    "volunteeringDate": "01/12/2001",
+    "joinDate": "07/09/2019",
+    "currentRankPromotionDate": "01/07/2019",
+    "nextRankPromotionDate": "01/07/2023"
+  },
+  {
+    "milId": 2003138301811,
+    "rank": "مساعد",
+    "name": "السيد متولي عبد الفتاح",
+    "category": "صف",
+    "volunteeringDate": "18/01/2003",
+    "joinDate": "07/11/2020",
+    "currentRankPromotionDate": "06/07/2020",
+    "nextRankPromotionDate": "01/07/2024"
+  },
+  {
+    "milId": 2003138301598,
+    "rank": "مساعد",
+    "name": "اسامة مجدي السيد السلاموني",
+    "category": "صف",
+    "volunteeringDate": "18/01/2003",
+    "joinDate": "07/11/2020",
+    "currentRankPromotionDate": "07/07/2020",
+    "nextRankPromotionDate": "01/07/2024"
+  },
+  {
+    "milId": 1998138304030,
+    "rank": "مساعد",
+    "name": "علاء صلاح أحمد عفيفي",
+    "category": "صف",
+    "volunteeringDate": "15/08/1998",
+    "joinDate": "17/10/2019",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2001138305031,
+    "rank": "مساعد",
+    "name": "السيد محمد محمد الشهابي",
+    "category": "صف",
+    "volunteeringDate": "01/12/2001",
+    "joinDate": "23/11/2021",
+    "currentRankPromotionDate": "01/07/2019",
+    "nextRankPromotionDate": "01/07/2023"
+  },
+  {
+    "milId": 2003138307851,
+    "rank": "مساعد",
+    "name": "جلال ابراهيم الدسوقي متولي",
+    "category": "صف",
+    "volunteeringDate": "19/07/2003",
+    "joinDate": "31/10/2016",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 200112830414,
+    "rank": "مساعد",
+    "name": "هانى محمد مندى بسيونى",
+    "category": "صف",
+    "volunteeringDate": "01/12/2001",
+    "joinDate": "15/11/2021",
+    "currentRankPromotionDate": "01/07/2019",
+    "nextRankPromotionDate": "01/07/2023"
+  },
+  {
+    "milId": 2004138303831,
+    "rank": "مساعد",
+    "name": "سامح أحمد سعيد سليم",
+    "category": "صف",
+    "volunteeringDate": "17/07/2004",
+    "joinDate": "27/10/2018",
+    "currentRankPromotionDate": "01/01/2017",
+    "nextRankPromotionDate": "01/01/2022"
+  },
+  {
+    "milId": 2005138301958,
+    "rank": "رقيب ا",
+    "name": "عبدالكريم مصطفي عبدالمعطي الجمل",
+    "category": "صف",
+    "volunteeringDate": "24/01/2005",
+    "joinDate": "26/01/2020",
+    "currentRankPromotionDate": "01/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2005138304267,
+    "rank": "رقيب ا",
+    "name": "خالد عبدالحميد محمد علي",
+    "category": "صف",
+    "volunteeringDate": "16/07/2005",
+    "joinDate": "07/11/2020",
+    "currentRankPromotionDate": "01/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2009138300225,
+    "rank": "رقيب ا",
+    "name": "حمدي محمود انور مراد",
+    "category": "صف",
+    "volunteeringDate": "24/01/2009",
+    "joinDate": "06/11/2021",
+    "currentRankPromotionDate": "30/06/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2009138300457,
+    "rank": "رقيب أ",
+    "name": "محمود محمد عبدالباسط محمد",
+    "category": "صف",
+    "volunteeringDate": "24/01/2009",
+    "joinDate": "28/10/2021",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2008138308099,
+    "rank": "رقيب ا",
+    "name": "محمد عبدالنبي سليمان",
+    "category": "صف",
+    "volunteeringDate": "26/07/2008",
+    "joinDate": "07/11/2018",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2009138301512,
+    "rank": "رقيب ا",
+    "name": "عادل امام مصباح الغرابلى",
+    "category": "صف",
+    "volunteeringDate": "24/01/2009",
+    "joinDate": "29/10/2016",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2009138303469,
+    "rank": "رقيب ا",
+    "name": "حمادة جميل السيد محمد",
+    "category": "صف",
+    "volunteeringDate": "24/01/2009",
+    "joinDate": "22/09/2018",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2006138304182,
+    "rank": "رقيب ا",
+    "name": "وحيد ابراهيم مصطفى",
+    "category": "صف",
+    "volunteeringDate": "01/01/2006",
+    "joinDate": "10/01/2021",
+    "currentRankPromotionDate": "01/01/2018",
+    "nextRankPromotionDate": "01/01/2023"
+  },
+  {
+    "milId": 2009138306025,
+    "rank": "رقيب أ",
+    "name": "محمد مجدي جلال أحمد",
+    "category": "صف",
+    "volunteeringDate": "18/07/2009",
+    "joinDate": "27/10/2016",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2026"
+  },
+  {
+    "milId": 2009138306786,
+    "rank": "رقيب أ",
+    "name": "محمد سعيد محمد درويش",
+    "category": "صف",
+    "volunteeringDate": "18/07/2009",
+    "joinDate": "27/10/2016",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2026"
+  },
+  {
+    "milId": 2010138304711,
+    "rank": "رقيب ا",
+    "name": "محمود محمد عبد المطلب ابو الفتوح",
+    "category": "صف",
+    "volunteeringDate": "16/01/2010",
+    "joinDate": "29/10/2016",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2026"
+  },
+  {
+    "milId": 2008138301770,
+    "rank": "رقيب أ",
+    "name": "احمد محمد محمد فتحى",
+    "category": "صف",
+    "volunteeringDate": "26/01/2008",
+    "joinDate": "15/11/2021",
+    "currentRankPromotionDate": "01/07/2019",
+    "nextRankPromotionDate": "01/07/2024"
+  },
+  {
+    "milId": 2008138301788,
+    "rank": "رقيب أ",
+    "name": "نصر خيرى نصر عبدالباقى",
+    "category": "صف",
+    "volunteeringDate": "26/01/2007",
+    "joinDate": "15/11/2021",
+    "currentRankPromotionDate": "01/01/2020",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 2010138306262,
+    "rank": "رقيب أ",
+    "name": "السيد عزت السيد احمد",
+    "category": "صف",
+    "volunteeringDate": "17/07/2010",
+    "joinDate": "15/11/2021",
+    "currentRankPromotionDate": "01/01/2017",
+    "nextRankPromotionDate": "01/01/2022"
+  },
+  {
+    "milId": 2011138307896,
+    "rank": "رقيب",
+    "name": "احمد خالد محمد زيان",
+    "category": "صف",
+    "volunteeringDate": "15/01/2011",
+    "joinDate": "29/10/2016",
+    "currentRankPromotionDate": "01/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2012138309163,
+    "rank": "رقيب",
+    "name": "مصطفي احمد مصطفي منصور",
+    "category": "صف",
+    "volunteeringDate": "28/01/2012",
+    "joinDate": "26/01/2020",
+    "currentRankPromotionDate": "01/07/2018",
+    "nextRankPromotionDate": "01/07/2023"
+  },
+  {
+    "milId": 2012138312560,
+    "rank": "رقيب",
+    "name": "غربب محمود غريب الجيار",
+    "category": "صف",
+    "volunteeringDate": "24/08/2013",
+    "joinDate": "31/07/2019",
+    "currentRankPromotionDate": "01/01/2020",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 2013138311405,
+    "rank": "رقيب",
+    "name": "صديق محمود صديق سالم",
+    "category": "صف",
+    "volunteeringDate": "24/08/2013",
+    "joinDate": "02/11/2020",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2013138313120,
+    "rank": "رقيب",
+    "name": "طارق وجيه محمد عبدالله",
+    "category": "صف",
+    "volunteeringDate": "24/08/2013",
+    "joinDate": "31/10/2020",
+    "currentRankPromotionDate": "01/01/2020",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 2014138316099,
+    "rank": "رقيب",
+    "name": "احمد السيد عبدالخالق السيد",
+    "category": "صف",
+    "volunteeringDate": "02/08/2014",
+    "joinDate": "14/11/2021",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2026"
+  },
+  {
+    "milId": 2013138313732,
+    "rank": "رقيب",
+    "name": "محمد السيد عبدالوهاب السيد",
+    "category": "صف",
+    "volunteeringDate": "24/08/2013",
+    "joinDate": "26/01/2020",
+    "currentRankPromotionDate": "01/01/2020",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": 2014138307296,
+    "rank": "رقيب",
+    "name": "شريف عصام عبيد",
+    "category": "صف",
+    "volunteeringDate": "26/01/2014",
+    "joinDate": "27/10/2020",
+    "currentRankPromotionDate": "01/07/2020",
+    "nextRankPromotionDate": "01/07/2025"
+  },
+  {
+    "milId": 2014138328284,
+    "rank": "رقيب",
+    "name": "ابراهيم مجدي حسن عباس",
+    "category": "صف",
+    "volunteeringDate": "02/08/2014",
+    "joinDate": "12/01/2016",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2026"
+  },
+  {
+    "milId": 2014138328432,
+    "rank": "رقيب",
+    "name": "أنس إبراهيم عبدالحي ابراهيم",
+    "category": "صف",
+    "volunteeringDate": "02/08/2014",
+    "joinDate": "06/11/2018",
+    "currentRankPromotionDate": "01/01/2021",
+    "nextRankPromotionDate": "01/01/2026"
+  },
+  {
+    "milId": 2014138328549,
+    "rank": "رقيب",
+    "name": "محمد ظريف محمد محمد ابوالخير",
+    "category": "صف",
+    "volunteeringDate": "02/08/2014",
+    "joinDate": "09/11/2021",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2026"
+  },
+  {
+    "milId": 2014138328515,
+    "rank": "رقيب",
+    "name": "محمود بدران محمود احمد",
+    "category": "صف",
+    "volunteeringDate": "02/08/2014",
+    "joinDate": "30/07/2019",
+    "currentRankPromotionDate": "18/11/2015",
+    "nextRankPromotionDate": "--------"
+  },
+  {
+    "milId": 2015138306650,
+    "rank": "رقيب",
+    "name": "محمد طارق محمد على",
+    "category": "صف",
+    "volunteeringDate": "26/01/2015",
+    "joinDate": "26/07/2016",
+    "currentRankPromotionDate": "01/07/2021",
+    "nextRankPromotionDate": "01/07/2026"
+  },
+  {
+    "milId": 2015138315982,
+    "rank": "عريف",
+    "name": "احمد محمد عبد الوهاب ايوب",
+    "category": "صف",
+    "volunteeringDate": "08/08/2015",
+    "joinDate": "20/03/2017",
+    "currentRankPromotionDate": "24/02/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2015138316055,
+    "rank": "عريف",
+    "name": "محمود ياسر حموده محمود",
+    "category": "صف",
+    "volunteeringDate": "08/08/2015",
+    "joinDate": "27/10/2020",
+    "currentRankPromotionDate": "24/02/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2015138316386,
+    "rank": "عريف",
+    "name": "اسامة محمد كمال حسين",
+    "category": "صف",
+    "volunteeringDate": "08/08/2015",
+    "joinDate": "20/03/2017",
+    "currentRankPromotionDate": "24/02/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2015138317475,
+    "rank": "عريف",
+    "name": "شهاب ايهاب شندي السيد احمد",
+    "category": "صف",
+    "volunteeringDate": "31/12/2015",
+    "joinDate": "23/11/2017",
+    "currentRankPromotionDate": "16/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2015138321484,
+    "rank": "عريف",
+    "name": "محمد ابراهيم عبدالنبي عبدالخالق",
+    "category": "صف",
+    "volunteeringDate": "31/12/2015",
+    "joinDate": "23/11/2017",
+    "currentRankPromotionDate": "16/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2015138310825,
+    "rank": "عريف",
+    "name": "طارق صبحي عبدالمنعم",
+    "category": "صف",
+    "volunteeringDate": "08/08/2015",
+    "joinDate": "30/07/2019",
+    "currentRankPromotionDate": "24/02/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2015138325907,
+    "rank": "عريف",
+    "name": "محمد ابراهيم سليمان سيد احمد",
+    "category": "صف",
+    "volunteeringDate": "31/12/2015",
+    "joinDate": "23/11/2017",
+    "currentRankPromotionDate": "16/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2015138310809,
+    "rank": "عريف",
+    "name": "سامح عوض الله عوض الله",
+    "category": "صف",
+    "volunteeringDate": "01/08/2015",
+    "joinDate": "07/11/2021",
+    "currentRankPromotionDate": "24/02/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2007134700796,
+    "rank": "مساعد ا",
+    "name": "ايهاب احمد الصادق محمد",
+    "category": "مهني",
+    "volunteeringDate": "13/01/2007",
+    "joinDate": "13/01/2020",
+    "currentRankPromotionDate": "01/01/2018",
+    "nextRankPromotionDate": "01/01/2022"
+  },
+  {
+    "milId": 2011134704161,
+    "rank": "رقيب ا",
+    "name": "عبدالله اليماني انور حسن",
+    "category": "مهني",
+    "volunteeringDate": "24/07/2011",
+    "joinDate": "31/10/2020",
+    "currentRankPromotionDate": "01/07/2017",
+    "nextRankPromotionDate": "01/07/2022"
+  },
+  {
+    "milId": 2013131805645,
+    "rank": "رقيب",
+    "name": "محمد احمد مصطفي مصطفي",
+    "category": "سائق",
+    "volunteeringDate": "24/08/2013",
+    "joinDate": "27/10/2020",
+    "currentRankPromotionDate": "01/01/2020",
+    "nextRankPromotionDate": "01/01/2025"
+  },
+  {
+    "milId": "",
+    "rank": "",
+    "name": "",
+    "category": "",
+    "volunteeringDate": "",
+    "joinDate": "",
+    "currentRankPromotionDate": "",
+    "nextRankPromotionDate": ""
+  }
+]

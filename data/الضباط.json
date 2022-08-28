@@ -1,0 +1,623 @@
+[
+  {
+    "seniorityNumber": 33933,
+    "rank": "عميد",
+    "name": "حاتم عبده السيد محمد",
+    "position": "مدير منطقة تجنيد وتعبئة الزقازيق",
+    "address": "3شارع صبري عبدالجليل –الزيتون - القاهرة",
+    "phoneNumber": 1061219974,
+    "dateBirth": "17/06/1971"
+  },
+  {
+    "seniorityNumber": 34135,
+    "rank": "عميد ا ح",
+    "name": "ايهاب محمود محمد محمد صقر",
+    "position": "نائب مدير منطقة تجنيد وتعبئة الزقازيق",
+    "address": "برج الزهراء بالمسلة - الفيوم",
+    "phoneNumber": 1001520501,
+    "dateBirth": "29/03/1973"
+  },
+  {
+    "seniorityNumber": 38107,
+    "rank": "عقيد",
+    "name": "محمد سليمان عبدالسلام حميده",
+    "position": "رئيس فرع التخطيط",
+    "address": "ش جمال عبدالناصر – الحسينية - الشرقية",
+    "phoneNumber": 1006629219,
+    "dateBirth": "05/11/1978"
+  },
+  {
+    "seniorityNumber": 9316,
+    "rank": "رائد ش",
+    "name": "عماد عبدالحميد محمد",
+    "position": "إفراد + شئون ضباط",
+    "address": "قرية ميت سهيل منيا القمح",
+    "phoneNumber": 1144227164,
+    "dateBirth": "05/10/1967"
+  },
+  {
+    "seniorityNumber": 9405,
+    "rank": "رائد ش",
+    "name": "احمد خيرى اسماعيل",
+    "position": "إفراد + شئون ضباط",
+    "address": "كفر محمد حسين -الزقازيق",
+    "phoneNumber": 1091139158,
+    "dateBirth": "05/10/1967"
+  },
+  {
+    "seniorityNumber": 7829,
+    "rank": "مقدم",
+    "name": "هيثم مصطفي مصطفي سالم",
+    "position": "قيادة المنطقة(تحت التوزيع)",
+    "address": "مساكن التعاونيات - بورسعيد",
+    "phoneNumber": 1093335555,
+    "dateBirth": "15/07/1983"
+  },
+  {
+    "seniorityNumber": 48542,
+    "rank": "نقيب",
+    "name": "محمد سعيد على ابو المجد",
+    "position": "قائد مفرزة الامن",
+    "address": "ميت العز -فاقوس-الشرقية",
+    "phoneNumber": 1014049341,
+    "dateBirth": "01/09/1994"
+  },
+  {
+    "seniorityNumber": 16087,
+    "rank": "ملازم ا ش",
+    "name": "ايمن حامد هلال دويدار",
+    "position": "ضابط التخطيط",
+    "address": "كوم النور /ميت غمر / دقهلية",
+    "phoneNumber": 1286103929,
+    "dateBirth": "15/03/1976"
+  },
+  {
+    "seniorityNumber": 14186,
+    "rank": "ملازم ا ش",
+    "name": "صلاح عطية عبد الفتاح",
+    "position": "الشئون الادارية",
+    "address": "حي النصر كفر صقر شرقية",
+    "phoneNumber": 1008471068,
+    "dateBirth": "30/09/1971"
+  },
+  {
+    "seniorityNumber": 11118,
+    "rank": "ملازم أِ ش",
+    "name": "تامر محمد عبدالرازق ابراهيم",
+    "position": "بديل ضابط الاشاره",
+    "address": "مساكن القاهرة - اول السلام - القاهرة",
+    "phoneNumber": 1228731442,
+    "dateBirth": "27/10/1975"
+  },
+  {
+    "seniorityNumber": 3275,
+    "rank": "رائد ش",
+    "name": "ابراهيم محمد السيد",
+    "position": "ضابط التوريدات",
+    "address": "ابو نجاح /الزقازيق/الشرقية",
+    "phoneNumber": 1009584412,
+    "dateBirth": "07/03/1966"
+  },
+  {
+    "seniorityNumber": 13463,
+    "rank": "ملازم ا ش",
+    "name": "يحي عثمان عباس درويش",
+    "position": "البريد",
+    "address": "قشا الصغر الباجور/ منوفيـــه",
+    "phoneNumber": 1272599679,
+    "dateBirth": "31/08/1971"
+  },
+  {
+    "seniorityNumber": 13227,
+    "rank": "ملازم أ ش",
+    "name": "مصطفي السيد حافظ",
+    "position": "فرع القضاء",
+    "address": "ميت غمر / دقهليه",
+    "phoneNumber": 1228106020,
+    "dateBirth": "13/09/1975"
+  },
+  {
+    "seniorityNumber": 1394,
+    "rank": "رائد",
+    "name": "سالم عبدالحميد عبدالعزيز",
+    "position": "قائد المعسكر",
+    "address": "شارع بورسعيد / بلبيس / الشرقية",
+    "phoneNumber": 1065620951,
+    "dateBirth": "15/09/1990"
+  },
+  {
+    "seniorityNumber": 13082,
+    "rank": "ملازم ا ش",
+    "name": "توفيق نبية توفيق",
+    "position": "مأمورية عمل بالمركز الالكتروني بالادارة",
+    "address": "طوخ طنبشا –بركة السبع - المنوفية",
+    "phoneNumber": 1067945181,
+    "dateBirth": "08/10/1973"
+  },
+  {
+    "seniorityNumber": 41749,
+    "rank": "مقدم",
+    "name": "محمود محمد محمد عبدالله",
+    "position": "رئيس فرع التجنيد والتطوع",
+    "address": "15 ش شبانة  المساكن التعاونية الزقازيق",
+    "phoneNumber": 1114574443,
+    "dateBirth": "10/02/1986"
+  },
+  {
+    "seniorityNumber": 3927,
+    "rank": "نقيب ش",
+    "name": "السيد محمد عبدالله محمد",
+    "position": "قائد مكتب التطوع",
+    "address": "حوض نجيح – ههيا - الشرقية",
+    "phoneNumber": 1091398638,
+    "dateBirth": "25/05/1972"
+  },
+  {
+    "seniorityNumber": 2439,
+    "rank": "مقدم ط",
+    "name": "عمرو محمد محمود",
+    "position": "رئيس المجلس الطبي",
+    "address": "ش داخلي الكورنيش-ميت غمر-الدقهلية",
+    "phoneNumber": 1017879780,
+    "dateBirth": "09/02/1982"
+  },
+  {
+    "seniorityNumber": 38447,
+    "rank": "عقيد نعاقد",
+    "name": "عمرو عبدالرحمن امين",
+    "position": "ا.ح المجلس الطبي",
+    "address": "الابراهيمية - الشرقية",
+    "phoneNumber": 1023452155,
+    "dateBirth": "06/09/1981"
+  },
+  {
+    "seniorityNumber": 44260,
+    "rank": "رائد ط",
+    "name": "احمد السيد محمد عبدالحليم",
+    "position": "قائد الجناح الطبي",
+    "address": "فيلا 5 - امتداد 15 مايو - حلوان-القاهرة",
+    "phoneNumber": 1000564557,
+    "dateBirth": "11/04/1990"
+  },
+  {
+    "seniorityNumber": 2784,
+    "rank": "رائد ط",
+    "name": "عمرو محمود خليفه",
+    "position": "اخصائي جلدية",
+    "address": "شبرا اليمن-زفتي -غربية",
+    "phoneNumber": 1114434741,
+    "dateBirth": "16/09/1984"
+  },
+  {
+    "seniorityNumber": 3009,
+    "rank": "رائد ط",
+    "name": "محمد خالد محمد الشرقاوى",
+    "position": "اخصائي عظام",
+    "address": "448 ش الترعة الجبل القاهرة",
+    "phoneNumber": 1117670007,
+    "dateBirth": "24/11/1989"
+  },
+  {
+    "seniorityNumber": 3011,
+    "rank": "رائد ط",
+    "name": "عبدالله السعيد عواد سليمان",
+    "position": "اخصائي رمد",
+    "address": "ا مباى طوخ القلوبية",
+    "phoneNumber": 1061332262,
+    "dateBirth": "23/02/1988"
+  },
+  {
+    "seniorityNumber": 3108,
+    "rank": "رائد ط",
+    "name": "احمد محمد زكي محمد",
+    "position": "اخصائي باطنة",
+    "address": "ابو زعبل البلد- مركز الخانكة - القليوبية",
+    "phoneNumber": 1009735447,
+    "dateBirth": "11/09/1986"
+  },
+  {
+    "seniorityNumber": 3275,
+    "rank": "نقيب ط",
+    "name": "مصطفي شريف محمد",
+    "position": "اخصائي انف واذن",
+    "address": "ش احمد زكي –عين شمس-القاهرة",
+    "phoneNumber": 1029201983,
+    "dateBirth": "01/07/1991"
+  },
+  {
+    "seniorityNumber": 3123,
+    "rank": "نقيب ط",
+    "name": "احمد محمد رزق متولي",
+    "position": "الاشعة",
+    "address": "11محلية اولي التجمع الثالث القاهرة",
+    "phoneNumber": 1010737991,
+    "dateBirth": "29/07/1989"
+  },
+  {
+    "seniorityNumber": 3179,
+    "rank": "نقيب ط",
+    "name": "شادي هشام احمد عبدالمعطي",
+    "position": "جراحة",
+    "address": "10 ش سيف الدين النزهة الجديدة القاهرة",
+    "phoneNumber": 1225947067,
+    "dateBirth": "17/09/1997"
+  },
+  {
+    "seniorityNumber": 3621,
+    "rank": "نقيب ش",
+    "name": "على السيد على محمد",
+    "position": "ضابط البصمة",
+    "address": "الشموت /بنها/قليوبية",
+    "phoneNumber": 1143579404,
+    "dateBirth": "04/05/1967"
+  },
+  {
+    "seniorityNumber": 15474,
+    "rank": "ملازم ا ش",
+    "name": "السيد أحمد عوض الله",
+    "position": "القومسيون",
+    "address": "شبرا قبالة/قويسنا/منوفية",
+    "phoneNumber": 1065960048,
+    "dateBirth": "11/03/1975"
+  },
+  {
+    "seniorityNumber": 801315,
+    "rank": "ملازم احتياط",
+    "name": "استيفن صموئيل حنا",
+    "position": "الاشعة",
+    "address": "شبين الكوم / قطور / الغربية",
+    "phoneNumber": 1056541505,
+    "dateBirth": "13/11/1992"
+  },
+  {
+    "seniorityNumber": 44260,
+    "rank": "رائد",
+    "name": "محمود احمد محمد حموده",
+    "position": "قائد مجمع خدمة المواطنين",
+    "address": "التجمع الخامس -القاهرة",
+    "phoneNumber": 1003974021,
+    "dateBirth": "03/12/1988"
+  },
+  {
+    "seniorityNumber": 9363,
+    "rank": "رائد ش",
+    "name": "حماده محمد اسماعيل مصطفي",
+    "position": "ضابط مكتب تصاريح السفر",
+    "address": "سنيطة ابو طوالة منيا القمح شرقية",
+    "phoneNumber": 1007017674,
+    "dateBirth": "17/05/1967"
+  },
+  {
+    "seniorityNumber": 3540,
+    "rank": "نقيب ش",
+    "name": "حامد عبد الحميد عبد الجواد",
+    "position": "فرع التعبئــــــة",
+    "address": "عزبة بدوي/ميت بشار/منيا القمح/شرقية",
+    "phoneNumber": 1003655914,
+    "dateBirth": "11/02/1967"
+  },
+  {
+    "seniorityNumber": 4725,
+    "rank": "نقيب ش",
+    "name": "عادل عبد السميع محمد احمد",
+    "position": "ضابط المجمع",
+    "address": "شلشلمون منيا القمح شرقية",
+    "phoneNumber": 1099444877,
+    "dateBirth": "03/12/1973"
+  },
+  {
+    "seniorityNumber": 5715,
+    "rank": "مقدم",
+    "name": "محمد احمد عبد المنعم",
+    "position": "رئيس فرع النظم",
+    "address": "مدينة ضباط المستقبل –الهايكستب -القاهرة",
+    "phoneNumber": 121871734,
+    "dateBirth": "27/12/1981"
+  },
+  {
+    "seniorityNumber": 43677,
+    "rank": "رائد",
+    "name": "مصطفي محمد سامي ابراهيم",
+    "position": "ضابط النظم",
+    "address": "ش المعاهدة - طنطا - الغربية",
+    "phoneNumber": 1002363797,
+    "dateBirth": "19/03/1989"
+  },
+  {
+    "seniorityNumber": 39800,
+    "rank": "مقدم",
+    "name": "رضوان عبدالعزيز رضوان",
+    "position": "رئيس فرع الشرقية",
+    "address": "محطة التران -اسكندرية",
+    "phoneNumber": 1009575200,
+    "dateBirth": "09/09/1983"
+  },
+  {
+    "seniorityNumber": 15543,
+    "rank": "ملازم ا ش",
+    "name": "ابراهيم محمد ابراهيم",
+    "position": "الشرقية",
+    "address": "أم رماد الزقازيق شرقية",
+    "phoneNumber": 1276565198,
+    "dateBirth": "01/08/1976"
+  },
+  {
+    "seniorityNumber": 15656,
+    "rank": "ملازم ا ش",
+    "name": "علاء عبد الرؤوف محمد فتوح",
+    "position": "ضابط عهدة رئاسة قسم الشرقية",
+    "address": "التلين منيا القمح شرقية",
+    "phoneNumber": 1097613907,
+    "dateBirth": "30/06/1974"
+  },
+  {
+    "seniorityNumber": 15948,
+    "rank": "ملازم ا ش",
+    "name": "حسن عثمان علي نصار",
+    "position": "قائد مكتب تجنيد وتعبئة ابوحماد والقرين",
+    "address": "السعدية ابو حماد شرقية",
+    "phoneNumber": 1227895557,
+    "dateBirth": "18/01/1977"
+  },
+  {
+    "seniorityNumber": 15945,
+    "rank": "ملازم ا ش",
+    "name": "عربي عبدلله محمد",
+    "position": "قائد مكتب تجنيد وتعبئة بلبيس",
+    "address": "تلبانه منيا القمح شرقية",
+    "phoneNumber": 1143161742,
+    "dateBirth": "13/07/1976"
+  },
+  {
+    "seniorityNumber": 5360,
+    "rank": "ملازم ا ش",
+    "name": "ناصر على الله السيد",
+    "position": "قائد مكتب تجنيد وتعبئة مركز الزقازيق",
+    "address": "ميت بشار منيا القمح شرقية",
+    "phoneNumber": 1002954565,
+    "dateBirth": "19/12/1973"
+  },
+  {
+    "seniorityNumber": 18013,
+    "rank": "ملازم ش",
+    "name": "طارق عزب حميدة السيد",
+    "position": "فرع الشرقية",
+    "address": "دمنهور الوحش – زفتي - غربية",
+    "phoneNumber": 1282357384,
+    "dateBirth": "08/05/1972"
+  },
+  {
+    "seniorityNumber": 40281,
+    "rank": "مقدم",
+    "name": "احمد عبدالفتاح ابراهيم رزق",
+    "position": "قيادة المنطقة(تحت التوزيع)",
+    "address": "الحي الاول - المجاورة الثالثة-دمياط الجديده",
+    "phoneNumber": 1069986997,
+    "dateBirth": "04/06/1983"
+  },
+  {
+    "seniorityNumber": 10004,
+    "rank": "نقيب ش",
+    "name": "عادل حلمي توفيق",
+    "position": "ضابط التعبئة بقسم السويس",
+    "address": "كفر الحمام بنها القليوبية",
+    "phoneNumber": 1044830101,
+    "dateBirth": "14/03/1967"
+  },
+  {
+    "seniorityNumber": 9979,
+    "rank": "نقيب ش",
+    "name": "عمرو ابراهيم محمد عبدالجليل",
+    "position": "ضابط مكتب تجنيد عتاقة",
+    "address": "ش ابو قنديل العزيزية – منيا القمح - شرقية",
+    "phoneNumber": 1227892465,
+    "dateBirth": "30/10/1970"
+  },
+  {
+    "seniorityNumber": 12824,
+    "rank": "ملازم ا ش",
+    "name": "وليد كامل محمد عبيد",
+    "position": "ضابط التعبئة بقسم السويس",
+    "address": "17 متفرع من ش ش الشهيد هاشم – انشاص - الشرقية",
+    "phoneNumber": 1098324147,
+    "dateBirth": "07/04/1972"
+  },
+  {
+    "seniorityNumber": 39708,
+    "rank": "مقدم",
+    "name": "اسماعيل انور اسماعيل",
+    "position": "رئيس القسم بالاسماعيلية",
+    "address": "68 ش مكة احمد ماهر - المنصورة",
+    "phoneNumber": 1063141396,
+    "dateBirth": "29/05/1981"
+  },
+  {
+    "seniorityNumber": 4467,
+    "rank": "نقيب ش",
+    "name": "سامح محمد ذكي ابراهيم",
+    "position": "قسم الاسماعلية",
+    "address": "قرية السعدين/ مركز منيا القمح/الشرقية",
+    "phoneNumber": 1092000233,
+    "dateBirth": "13/07/1973"
+  },
+  {
+    "seniorityNumber": 9900,
+    "rank": "نقيب ش",
+    "name": "اسامة عادل محمد كيلاني",
+    "position": "رئاسه قسم الاسماعلية",
+    "address": "عزبه التونسي – مشتول السوق - شرقية",
+    "phoneNumber": 1221762858,
+    "dateBirth": "22/04/1970"
+  },
+  {
+    "seniorityNumber": 16383,
+    "rank": "ملازم أ ش",
+    "name": "نبيل السيد عبدالحليم",
+    "position": "رئاسه قسم الاسماعلية",
+    "address": "بيشة عامر",
+    "phoneNumber": 1064219286,
+    "dateBirth": "22/04/1970"
+  },
+  {
+    "seniorityNumber": 11966,
+    "rank": "ملازم ا ش",
+    "name": "رضا محمود محجوب حسن",
+    "position": "قسم الاسماعيلية",
+    "address": "قرية نشوة – الزقازيق - الشرقية",
+    "phoneNumber": 1141874528,
+    "dateBirth": "22/05/1973"
+  },
+  {
+    "seniorityNumber": 14438,
+    "rank": "ملازم ا ش",
+    "name": "علاء محمد محمد أبراهيم",
+    "position": "قائد مكتب التل الكبير",
+    "address": "عزبة ابو عمارة كفر موسي زقازيق شرقية",
+    "phoneNumber": 1000412876,
+    "dateBirth": "14/04/1975"
+  },
+  {
+    "seniorityNumber": 12451,
+    "rank": "ملازم ا ش",
+    "name": "هلال محمد محمد شلبي",
+    "position": "قائد مكتب تجنيد مركز الاسماعيلة",
+    "address": "شبين الكوم – قطور - غربية",
+    "phoneNumber": 1144217978,
+    "dateBirth": "27/03/1971"
+  },
+  {
+    "seniorityNumber": 39231,
+    "rank": "مقدم",
+    "name": "محمد قزون محمد محمد",
+    "position": "رئيس .قسم بورسعيد",
+    "address": "ش امتداد الثلاثينى- الاسماعيلية",
+    "phoneNumber": 1066297429,
+    "dateBirth": "01/01/1982"
+  },
+  {
+    "seniorityNumber": 14728,
+    "rank": "ملازم ا ش",
+    "name": "مصطفي صلاح حسين محمد",
+    "position": "قسم بورسعيد",
+    "address": "8ش الخضري – المرج - القاهرة",
+    "phoneNumber": 1015113772,
+    "dateBirth": "12/07/1976"
+  },
+  {
+    "seniorityNumber": 15520,
+    "rank": "ملازم ا ش",
+    "name": "حمدي محمود عفيفي يوسف",
+    "position": "قائد مكتب الزهور",
+    "address": "الشموت – بنها - قليوبية",
+    "phoneNumber": 1116632924,
+    "dateBirth": "11/01/1976"
+  },
+  {
+    "seniorityNumber": 16291,
+    "rank": "ملازم ا ش",
+    "name": "ابراهيم السيد ابراهيم خليل",
+    "position": "قسم تجنيد بور سعيد",
+    "address": "شلشلمون منيا القمح الشرقية",
+    "phoneNumber": 1061427125,
+    "dateBirth": "15/02/1973"
+  },
+  {
+    "seniorityNumber": 16047,
+    "rank": "ملازم ا ش",
+    "name": "حاتم عبدالله سليم محمد صقر",
+    "position": "بورسعيد",
+    "address": "اوليلة – ميت غمر  - الدقهلية",
+    "phoneNumber": 1025479147,
+    "dateBirth": "12/12/1975"
+  },
+  {
+    "seniorityNumber": 9052,
+    "rank": "رائد ف ج",
+    "name": "أحمد فتحى عثمان ترك",
+    "position": "قسم شمال سينـاء",
+    "address": "المساعيد/العريش/شمال سيناء",
+    "phoneNumber": 1273822655,
+    "dateBirth": "10/12/1970"
+  },
+  {
+    "seniorityNumber": 9829,
+    "rank": "نقيب ش",
+    "name": "اشرف فتحي ابراهيم",
+    "position": "شمال سيناء",
+    "address": "13شارع طربلس - إسكندرية",
+    "phoneNumber": 1094898622,
+    "dateBirth": "06/11/1967"
+  },
+  {
+    "seniorityNumber": 13365,
+    "rank": "ملازم أ ش",
+    "name": "طارق محمد محمد حسن",
+    "position": "شمال سيناء",
+    "address": "عين شمس / القاهرة",
+    "phoneNumber": 1030441515,
+    "dateBirth": "28/10/1968"
+  },
+  {
+    "seniorityNumber": 9826,
+    "rank": "نقيب ش",
+    "name": "محمد عبدالعزيز محمد",
+    "position": "قسم جنوب سيناء",
+    "address": "بهنباي/الزقازيق/شرقيــة",
+    "phoneNumber": 1152585526,
+    "dateBirth": "25/09/1967"
+  },
+  {
+    "seniorityNumber": 13577,
+    "rank": "ملازم ا ش",
+    "name": "ايمن حمدي على موسى",
+    "position": "جنوب سيناء",
+    "address": "ش المعمل /زفتي /غربيــــة",
+    "phoneNumber": 1006228650,
+    "dateBirth": "08/10/1973"
+  },
+  {
+    "seniorityNumber": 12188,
+    "rank": "ملازم ا ش",
+    "name": "عربى الشحات محمد عيد",
+    "position": "مامورية عمل بالادرة",
+    "address": "",
+    "phoneNumber": "",
+    "dateBirth": ""
+  },
+  {
+    "seniorityNumber": "",
+    "rank": "مقدم",
+    "name": "محمد فتحي جوده الملاح",
+    "position": "الانتقاء",
+    "address": "",
+    "phoneNumber": 12712427820,
+    "dateBirth": "13/04/1983"
+  },
+  {
+    "seniorityNumber": "",
+    "rank": "ملازم ا",
+    "name": "محمد احمد عبد الرحيم",
+    "position": "الانتقاء",
+    "address": "",
+    "phoneNumber": 1019021442,
+    "dateBirth": "18/09/1995"
+  },
+  {
+    "seniorityNumber": "",
+    "rank": "ملازم ا",
+    "name": "السيد محمد محمد",
+    "position": "الانتقاء",
+    "address": "",
+    "phoneNumber": 1204273118,
+    "dateBirth": "15/08/1994"
+  },
+  {
+    "seniorityNumber": "",
+    "rank": "ملازم",
+    "name": "اشرف محمد عبداللطيف",
+    "position": "الانتقاء",
+    "address": "",
+    "phoneNumber": 1146261298,
+    "dateBirth": "20/01/1969"
+  }
+]
